@@ -14,9 +14,11 @@ C:\Users\ユーザー名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\S
 
 exeファイルを信用できない場合は、AutoHotKeyをインストールして同じディレクトリにemacs_keymap.ahkを配置してください。
 
-配置したemacs_keymap.ahkをダブルクリックしてください。  
+配置したemacs_keymap.ahkをダブルクリックしてください。
+
 [AutoHotKey](https://www.autohotkey.com/)
 
 # 補足
-CapslockとCtrlを入れ替える場合は、Microsoft公式のCtrl2Capを使用してください。  
+CapslockとCtrlを入れ替える場合は、Microsoft公式のCtrl2Capを使用してください。
+
 [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
