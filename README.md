@@ -3,7 +3,11 @@ emacsのキーバインドをWindows10用に割り当てたものです。
 基本的にはemacs移動だけを移植しています。  
 左altキーはmacのcommandキーのような役割に当てているため、左alt + fで検索、左alt + sで保存のように割り当てています。  
 
-# 使用方法
+This is the emacs key binding assigned for Windows 10.  
+Basically, I only ported the emacs move.  
+Since the left alt key is assigned to a role similar to the command key in mac, I assigned it to search with left alt + f and save with left alt + s.  
+
+# 使用方法 (How to use)
 *emacs_keymap.exeをダブルクリックして起動
 ## windows10起動時にアプリを自動起動する場合
 C:\Users\ユーザー名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup  
