@@ -19,6 +19,19 @@ exeファイルを信用できない場合は、AutoHotKeyをインストール�
 その後emacs_keymap.ahkをダブルクリックすることで起動できます。  
 [AutoHotKey](https://www.autohotkey.com/)
 
+## 更新
+ver1.0  
+Windows上でemacsキーバインドの実装。  
+ver2.0とは違い、Emacsキーバインド上の一行削除であるCtrl+kが使用可能なためPowerPointやWord上での作業が捗る。  
+ただしEmacsなどを使用する際にコマンドの衝突が発生。
+
+ver2.0  
+Windows版EmacsやVScodeでAwesome Emacs Keymapなどの拡張機能を使用する人用。  
+Ctrl+kを使用した場合、emacsエディタ上やVScode上でキーのコンフリクトが発生したため削除。  
+Ctrl+dの追加。 
+
+
 ## 補足
 CapslockとCtrlを入れ替える場合は、Microsoft公式のCtrl2Capを使用してください。  
 [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
+
