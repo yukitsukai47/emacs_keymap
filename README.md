@@ -34,4 +34,3 @@ Ctrl+dの追加。
 ## 補足
 CapslockとCtrlを入れ替える場合は、Microsoft公式のCtrl2Capを使用してください。  
 [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
-
