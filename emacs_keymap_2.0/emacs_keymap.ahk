@@ -26,6 +26,7 @@ erase_del_char(){
 LAlt & s::Send, ^s
 LAlt & f::Send, ^f
 LAlt & a::Send, ^a
+LAlt & Space::Send, #s
 
 ^d::
   erase_del_char()
