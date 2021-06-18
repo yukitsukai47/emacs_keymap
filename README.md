@@ -29,7 +29,7 @@ emacs_keymap_2.0
 Windows版EmacsやVScodeでAwesome Emacs Keymapなどの拡張機能を使用する人用。  
 Ctrl+kを使用した場合、emacsエディタ上やVScode上でキーのコンフリクトが発生したため削除。  
 Ctrl+dの追加。 
-LWin+SpaceによりMacのようなSpotlightのショートカットを実現。
+LWin+Space，LAlt+SpaceによりMacのようなSpotlightのショートカットを実現。
 
 
 ## 補足
