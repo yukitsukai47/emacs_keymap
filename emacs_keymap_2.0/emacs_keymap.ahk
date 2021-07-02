@@ -23,9 +23,12 @@ erase_del_char(){
 ^n::Send, {Down}
 ^b::Send, {Left}
 
-LAlt & s::Send, ^s
-LAlt & f::Send, ^f
-LAlt & a::Send, ^a
+LWin & s::Send, ^s
+LWin & c::Send, ^c
+LWin & v::Send, ^v
+LWin & z::Send, ^z
+LWin & f::Send, ^f
+LWin & a::Send, ^a
 LAlt & Space::Send, #s
 LWin & Space::Send, #s
 
