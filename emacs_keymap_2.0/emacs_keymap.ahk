@@ -23,7 +23,6 @@ erase_del_char(){
 ^n::Send, {Down}
 ^b::Send, {Left}
 
-LWin & s::Send, ^s
 LWin & c::Send, ^c
 LWin & v::Send, ^v
 LWin & z::Send, ^z
